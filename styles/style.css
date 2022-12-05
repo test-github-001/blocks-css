@@ -71,6 +71,7 @@ a {
 }
 a:hover {
     color: #00aaff;
+    text-shadow: 2px 2px 3px #000000;
 }
 
 main{
